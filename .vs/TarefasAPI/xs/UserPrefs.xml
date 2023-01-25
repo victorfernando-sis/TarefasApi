@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{E7909262-F87F-4030-BAAA-F9E0C832BC8A}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Endpoints/TarefasEndpoints.cs">
+    <Files>
+      <File FileName="appsettings.json" Line="4" Column="1" />
+      <File FileName="Endpoints/TarefasEndpoints.cs" Line="12" Column="17" />
+      <File FileName="Extensions/ServiceCollectionsExtensions.cs" Line="18" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TarefasAPI" expanded="True">
+            <Node name="TarefasAPI" expanded="True">
+              <Node name="Endpoints" expanded="True" />
+              <Node name="Extensions" expanded="True">
+                <Node name="ServiceCollectionsExtensions.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.TarefasAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
